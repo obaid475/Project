@@ -415,13 +415,13 @@
       
         <div class="mySlides fade">
           <div class="numbertext">2 / 3</div>
-          <img src="int-7.jpg" style="width:100%">
+          <img src="https://blogger.googleusercontent.com/img/a/AVvXsEivlpjDMo_UyRBaI1TDxa6qhCvJIrkEdYL279ysuqRNw3j6nFapOow_0S4d5m10YcdMRryeE5mFjjthIAtu3uO-yny3cMKZNOrAroPFRHMtlbvuOPaoU6DPHsMXVXLPqOo45713n4_n-Awdr6Uv1tW8q2cPRTeK2J7bmb54af4IwfxoAO_O3bD5O2SKkw=s16000" style="width:100%">
           <div class="text">Caption Two</div>
         </div>
       
         <div class="mySlides fade">
           <div class="numbertext">3 / 3</div>
-          <img src="mbbs.jpeg" style="width:100%">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-ENEb_N_WS07t6e9kcPjGNGaco5Z1wBwLAjVU21xWg2ToT9qZgQkQ3lxk6wyoXmYiXpuCvCK_x9DhIhA8xsQqJPf1Vqet66ATnW7LikodEfOkXA_Q46BekM8wRPW5eou3FxU-ao_gaurayk1_x0IdnOwe_GEfrKAscfgSWGbcQFn53T6ynydR2PLow/s16000/Academic%20Block-II.jpg" style="width:100%">
           <div class="text">Caption Three</div>
         </div>
       
